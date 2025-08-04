@@ -1,5 +1,5 @@
-# 📦 Gestor de Inventario en Java  
-# 📦 Inventory Manager in Java
+# 📦 Gestor de Inventario en Java.
+# 📦 Inventory Manager in Java.
 
 Este repositorio contiene un proyecto educativo de Java dividido por versiones, donde se desarrolla paso a paso un sistema de gestión de inventario por consola.
 
