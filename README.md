@@ -15,7 +15,7 @@ This repository contains an educational Java project divided by versions, buildi
 - CRUD completo (Crear, Leer, Actualizar, Eliminar) / Full CRUD  
 - Validaciones, submenús y manejo de errores  
 - Lectura y escritura de archivos `.txt` / File I/O with `.txt`  
-- Estructura modular de proyectos Java
+- Estructura modular de proyectos Java.
 
 ---
 
