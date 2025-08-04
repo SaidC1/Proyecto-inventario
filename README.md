@@ -9,15 +9,15 @@ This repository contains an educational Java project divided by versions, buildi
 
 ## 🧠 ¿Qué se practica? / What do you learn?
 
-- Fundamentos de Java / Java fundamentals  
-- Programación Orientada a Objetos (POO) / Object-Oriented Programming (OOP)  
+- Fundamentos de Java / Java fundamentals.
+- Programación Orientada a Objetos (POO) / Object-Oriented Programming (OOP).
 - Uso de `ArrayList`  
 - CRUD completo (Crear, Leer, Actualizar, Eliminar) / Full CRUD  
-- Validaciones, submenús y manejo de errores  
+- Validaciones, submenús y manejo de errores.
 - Lectura y escritura de archivos `.txt` / File I/O with `.txt`  
 - Estructura modular de proyectos Java.
 
 ---
 
-## 📂 Estructura del repositorio / Repository structure
+## 📂 Estructura del repositorio / Repository structure.
 
