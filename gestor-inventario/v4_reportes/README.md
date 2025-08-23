@@ -1,12 +1,12 @@
-# 📊 Gestor de Inventario en Java - Versión 4: Reportes  
-# 📊 Inventory Manager in Java - Version 4: Reports
+# 📊 Gestor de Inventario en Java - Versión 4: Reportes.
+# 📊 Inventory Manager in Java - Version 4: Reports.
 
 Versión extendida del proyecto de inventario, ahora con funciones de análisis y reportes.  
 Extended version of the inventory project, now with analysis and reporting features.
 
 ---
 
-## 🧠 ¿Qué se practicó? / What was practiced?
+## 🧠 ¿Qué se practicó? / What was practiced?.
 
 - CRUD completo con persistencia en archivo `.txt`  
   Full CRUD with `.txt` file persistence  
@@ -17,7 +17,7 @@ Extended version of the inventory project, now with analysis and reporting featu
 
 ---
 
-## 📄 Archivos / Files
+## 📄 Archivos / Files.
 
 - `Producto.java`: Clase base con atributos, setters, `toString()` y formato para archivo  
   Product class with attributes, setters, `toString()`, and file format method  
@@ -28,7 +28,7 @@ Extended version of the inventory project, now with analysis and reporting featu
 
 ---
 
-## ✅ Funcionalidades / Features
+## ✅ Funcionalidades / Features.
 
 1. Agregar producto / Add product  
 2. Mostrar productos / Show all products  
@@ -42,7 +42,7 @@ Extended version of the inventory project, now with analysis and reporting featu
 
 ---
 
-## 🧪 Requisitos / Requirements
+## 🧪 Requisitos / Requirements.
 
 - Java 17 o superior / Java 17 or higher  
 - Ejecutar desde consola o IDE como IntelliJ, Eclipse o VS Code
