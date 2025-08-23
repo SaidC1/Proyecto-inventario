@@ -49,7 +49,7 @@ Extended version of the inventory project, now with analysis and reporting featu
 
 ---
 
-## 🚀 Ejecución / How to run
+## 🚀 Ejecución / How to run.
 
 ```bash
 javac Producto.java GestorInventario.java
